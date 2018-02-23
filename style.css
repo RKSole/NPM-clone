@@ -1,0 +1,273 @@
+*{
+  margin:0px;
+  padding:0px;
+  font-family: sans-serif;
+}
+
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding: 0px;
+  height: 45px;
+  font-family: sans-serif ;
+  font-size: 15px;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 14px;
+  margin: 0 16px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 20px;
+}
+
+.top-left{
+  float: left;
+  display: inline-block;
+  margin: 0 20px 0 0;
+  padding: 14px;
+}
+.heart {
+  margin:8px;
+}
+.acronym {
+  margin:5px;
+}
+
+.header {
+  background: url(city-scape.svg)0 0 no-repeat;
+  background-size: cover;
+  height: 390px;
+  padding-top: 50px;
+  position: relative;
+}
+
+.bar {
+  width: 100%;
+  margin: -34px 0 0 20px;
+  display: inline-block;
+}
+
+.barI{
+  margin: -55px 0 0 150px;
+}
+
+.barI img {
+  height:48px;
+  background-color: rgb(31, 82, 111);
+}
+
+.barI input{
+  width: 88%;
+  float:left;
+  background-color: rgb(31, 82, 111);
+  height: 45px;
+  border-color: rgb(184, 178, 178);
+  display: inline-block;
+  
+}
+
+.bearlogo{ 
+  margin: -63px 0 0 2373px;
+  height:40px;
+  display: inline-block;
+  float:left;
+}
+
+.bar a{
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.8);
+  float:left;
+  font-size:20px;
+  margin: 0 0 0 2px;
+  display: inline-block;
+}
+
+.city{
+  width: 100%;
+  height: 100px;
+  color: #ffffff;
+  width: 44%;
+  margin: 10px 0 0 9%;
+  float: left;
+  text-align: left;
+   
+}
+
+.city button{
+  border: none;
+  border-radius: 30px;
+  padding: 11px 32px 11px 32px;
+  font-size: 1.3em;
+  text-align: center;
+  display: inline-block;
+  background-color: #f09233;
+  margin: 110px 0 0 480px;
+  font-size: 1.2em;
+  color:white;
+}
+
+
+.city p{
+  color: white;
+  text-decoration: none;
+  margin: 60px 0 -80px 475px ;
+  font-size: 19px;
+}
+
+.city h2{
+  color: white;
+  font-size:45px;
+  margin: 45px 0 -32px 472px;
+  font-weight: lighter;
+}
+
+.orgs{
+  background-color: #273546;
+  color: #ffffff;
+  width: 100%;
+  height: 580px;
+  overflow: hidden;
+}
+
+.imgorgs{
+  width: 27%;
+  height: auto;
+  float: left;
+}
+
+.general{
+  width: 84%;
+  margin: 5% 0 0 28%;
+  padding: 0;
+  overflow: hidden;
+}
+
+.ul {
+    width: 43%;
+    margin: 20px 560px 20px 0;
+    float: right;
+    font-size: 1.0em;
+    overflow: hidden;
+}
+.ul h2{
+  font-size:2.0em;
+  margin:0 0 20px 0;
+  font-weight: lighter;
+}
+
+.ul li{
+  line-height: 2.8em;
+  margin-left: 20px;
+  padding-left: 8px;
+  font-size: 1.1em
+}
+
+.orgs button{
+    border: none;
+    border-radius: 30px;
+    padding: 8px 30px 8px 30px;
+    margin: 13px 0;
+    font-size: 1.2em;
+    text-align: center;
+    display: inline-block;
+    background-color: #cb3837;
+    color: white;
+}
+.Install {
+  background: url(forklift.svg)0 0 no-repeat;
+  background-size: cover;
+  height:510px;
+  position:relative;
+}
+
+.Installation{
+  float: left;
+  font-size: 16px;
+  color:white;
+  margin: 4.5% 0 0 29%;
+  line-height: 1.3em;
+}
+
+.Installation h2{
+  font-size:2.2em;
+  margin:0 0 25px 0;
+  font-weight: lighter;
+}
+
+.Installation button{
+    border: none;
+    border-radius: 30px;
+    padding: 8px 22px 8px 22px;
+    margin: 16px 0;
+    font-size: 1.4em;
+    text-align: center;
+    display: inline-block;
+    background-color: #34495e;
+    color:white;
+}
+
+.packages {
+    width: 100%;
+    height: 500px;
+    padding-top: 40px;
+    position:relative;
+}
+
+.principal {
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.principal h2{
+  font-weight: lighter;
+  font-size: 35.0px;
+  margin: 22px 0 22px 0;
+}
+.principal p {
+  font-size: 1.1em;
+  color: #6d7986;
+}
+
+.packages p{
+  font-size: 1.1em;
+  color: #6d7986;
+}
+
+.packages h4{
+  margin: 22px 0 22px 0;
+  font-size: 20.0px;
+}
+.pack{
+    width: 25%;
+    float: left;
+    text-align: center;
+    padding: 0 40px 0 40px;
+}
+
+.iz{
+  margin: 20px 0 0 480px;
+  float: left;
+}
+
+.cnt{
+  width: 25%;
+  float: left;
+  margin: 20px 0 0 -320px;
+  text-align: center;
+}
+
+.dch{
+  margin: -270px 80px 0 1300px;
+  float:left;
+}
